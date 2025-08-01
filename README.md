@@ -20,18 +20,18 @@
 - 500+ APIs
 
 **Upcoming Feature Soon -**
-- More fun games
-- TikTok mass reporter
+- More fun games - added
+- TikTok mass reporter - added
 - WiFi Deauth/DDoS
-- Website DDoS
-- VCC Generator
-- IP Grabbers
+- Website DDoS 
+- VCC Generator - added
+- IP Grabbers - added
 - Camera hack
 - Live location hack
 
 **Download Now From**
 https://is.gd/SNAZna
 
-# Last updated - 16 July Wednesday 2025
+# Last updated - 1 August 2025
 
 # Must give a star if I helped :)
