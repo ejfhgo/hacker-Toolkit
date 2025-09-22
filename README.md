@@ -38,4 +38,4 @@ https://is.gd/SNAZna
 
 # Must give a star if I helped :)
 take a look at
-https://s4tyam-raj.github.io/Satyam-Raj/
+https://satyam-raj-india.github.io/Satyam-Raj/
