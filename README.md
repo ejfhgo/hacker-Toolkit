@@ -34,6 +34,8 @@
 **Download Now From**
 https://is.gd/SNAZna
 
-# Last updated - 11+ September 2025
+# Last updated - 21 September 2025
 
 # Must give a star if I helped :)
+take a look at
+https://s4tyam-raj.github.io/Satyam-Raj/
